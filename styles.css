@@ -1,0 +1,40 @@
+body{
+    /* background-color: #CFB997; */
+    background-image: url('Images/bg5.jpeg');
+    background-size: 100%;
+    font-weight: bold;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    background-repeat: no-repeat;  
+} 
+
+.top-container{
+    text-align: justify;
+}
+
+.mid-container{
+    color:rgb(35, 41, 34);
+    font-weight: bolder;
+}
+
+#more{
+    display: none;
+}
+
+h1{
+    color: #D5CEA3;
+    margin: 0 auto 0 auto;
+}
+
+hr{
+    background-color: white;
+    border-style: none;
+    height: 0;
+    width: auto;
+}
+
+/*
+img{
+    background-color: #594545;
+}
+*/
